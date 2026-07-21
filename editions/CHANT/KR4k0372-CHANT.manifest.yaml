@@ -17,18 +17,18 @@ metadata:
     short: CHANT
 assets:
   parts:
-  - {seq: 1, filename: KR4k0372_001-CHANT.yaml, hash: 'sha256:2d0f0891e920a7c7a03d019aaa1bdab2b63cf489ba7cf0110dc3df7a9bd07ec9'}
+  - {seq: 1, filename: KR4k0372_001-CHANT.yaml, hash: 'sha256:87e272240fc129c8ae800bc4176a26acbf343b2bda9aa9cc244ff9ec93d007b5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0372_001-CHANT.markers.yaml, hash: 'sha256:c49c978e74620c7aacf2cff0ee2f61f324a7ccef05d0c2ed7f315ffa1826465f'}
+  - {seq: 1, role: markers, filename: assets/KR4k0372_001-CHANT.markers.yaml, hash: 'sha256:19484e5cd492590fc04e716c85c7465e8479db6d854c548349fcd9270e865c82'}
 table_of_contents:
 - ref:
     seq: 1
     marker_id: KR4k0372_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 410
   label: 序
   type: section
   level: 1
-hash: sha256:73218ce8d9726b5a14b8b9cf03821e69f663704ee62bfeccff0a5067d7ee4028
+hash: sha256:65cad12a36ae7c91c8245425832fd231a12dc979e1419366dafecf05d4fe9bee
